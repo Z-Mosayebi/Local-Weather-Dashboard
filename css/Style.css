@@ -1,0 +1,7 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#weather-info {
+    min-height: 150px; /* Ensures the div is visibly significant even without content */
+}
